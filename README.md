@@ -1,1 +1,1 @@
-# starling-style
+# Starling Style Assets
