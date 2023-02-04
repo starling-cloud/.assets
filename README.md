@@ -12,6 +12,13 @@
 Base URL: [https://starling-cloud.github.io/.assets/](https://starling-cloud.github.io/.assets/)
 
 
+
+## Profiles
+
+[Starling Profiles](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKHeOubDkop3lpltC4TaK4JAUcbujlPQyTzUI_odkrwwsUd81aH4SxZF5QTIpD4UMAkN8bycLgGDng/pubhtml)
+
+
+
 ## Copyright
 
 Copyright &copy; 2023 [Staling Associates](https://www.starling.associates/ "Starling website"). All Rights Reserved.
